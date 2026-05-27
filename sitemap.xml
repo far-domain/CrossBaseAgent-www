@@ -3,4 +3,16 @@
   <url>
     <loc>https://far-domain.github.io/CrossBaseAgent-www/</loc>
   </url>
+  <url>
+    <loc>https://far-domain.github.io/CrossBaseAgent-www/download/</loc>
+  </url>
+  <url>
+    <loc>https://far-domain.github.io/CrossBaseAgent-www/scenarios/product-research/</loc>
+  </url>
+  <url>
+    <loc>https://far-domain.github.io/CrossBaseAgent-www/scenarios/competitor-analysis/</loc>
+  </url>
+  <url>
+    <loc>https://far-domain.github.io/CrossBaseAgent-www/scenarios/listing-optimization/</loc>
+  </url>
 </urlset>
