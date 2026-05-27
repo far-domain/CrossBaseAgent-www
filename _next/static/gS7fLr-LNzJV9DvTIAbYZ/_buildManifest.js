@@ -1,7 +1,12 @@
 self.__BUILD_MANIFEST = {
   "__rewrites": {
     "afterFiles": [],
-    "beforeFiles": [],
+    "beforeFiles": [
+      {
+        "source": "/CrossBaseAgent-www//_next/:path+",
+        "destination": "/CrossBaseAgent-www/_next/:path+"
+      }
+    ],
     "fallback": []
   },
   "sortedPages": [
