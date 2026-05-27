@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://far-domain.github.io/CrossBaseAgent-www/sitemap.xml
