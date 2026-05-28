@@ -1,2 +1,2 @@
 :HL["/CrossBaseAgent-www/_next/static/chunks/0b5k94nigo~zx.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"download","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"EaxHl1Dsq-N4rv1F3N0_C"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"download","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"NnEJj-_AVLeirXk7SVCfs"}
